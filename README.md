@@ -3,9 +3,9 @@
 </div>
 
 ## Hey! 👋
-I'm Jonathan, a 21 years old Student and a aspiring Software Engineer from Ireland 🇮🇪.
+I'm Jonathan, a 22 years old Student and a aspiring Software Engineer from Ireland 🇮🇪. I am currently searching for a job which I can start after i graduate in May 2023.
 
-  - 👨‍🎓 3rd Year Computer Science Student at Technolgical University Dublin
+  - 👨‍🎓 Final Year Computer Science Student at Technolgical University Dublin
   - 💻 Intern at Ocuco LTD
   
 ## Skills
