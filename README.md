@@ -3,17 +3,11 @@
 </div>
 
 ## Hey! 👋
-I'm Jonathan, a 22 years old Student studying BSc Computer Science in TU Dublin Grangegorman. I am a aspiring Software Engineer from Ireland 🇮🇪. I am currently searching for a entry level or graduate Software Engineering role which I can start after May 2023.
+I'm Jonathan, Software Engineer from Ireland 🇮🇪 
 
-  - 👨‍🎓 Final Year Computer Science Student at Technolgical University Dublin
-  - 💻 Intern at Ocuco LTD
+  - 👨‍🎓 BSc Computer Science from Technolgical University Dublin
+  - 💻 Software Engineer at Twilio, Ex Fidelity Investements
   
-## Skills
-  
- - 🛠️ Java, C, Python, PHP, Node, Express, Django, React
- - 🖌️ HTML, CSS, JavaScript
- - 💿 MySQL, PostgreSQL, MongoDB
-
 ## Links
 <div id="badges">
   <a href="https://www.linkedin.com/in/jonathan-hew-964910221/">
